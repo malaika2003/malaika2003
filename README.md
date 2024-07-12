@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/malaika2003](https://github.com/malaika2003)
 
-- 💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm**
+- 💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithms**
 
 - 📫 How to reach me **malaika20062003@gmail.com**
 
