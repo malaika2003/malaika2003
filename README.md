@@ -4,9 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malaika2003&label=Profile%20views&color=0e75b6&style=flat" alt="malaika2003" /> </p>
 
-- 🔭 I’m currently working on **Cclms**
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently honing my skills in **data structures and algorithms (DSA)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/malaika2003](https://github.com/malaika2003)
 
@@ -29,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malaika2003&show_icons=true&locale=en" alt="malaika2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malaika2003&" alt="malaika2003" /></p>
-## Hi there 👋
+
 
 <!--
 **malaika2003/malaika2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
